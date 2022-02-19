@@ -74,7 +74,7 @@ body{
 }
 
 .formHeader p{
-    position: absolute;
+    /* position: absolute; */
     padding-left: 8%;
     bottom:10%;
     font-size: 1.5rem;
